@@ -2,6 +2,9 @@
 
 ![Logo](logo.png)
 
+## 🚀 Application Demo
+[Watch the demo video](videos/early_to_rise_app_demo.mp4)
+
 
 **"Early to bed and early to rise makes a man healthy, wealthy, and wise."**  
 **Early to Rise** is your companion for cultivating productive daily habits that are simple, effective, and tailored to your busy lifestyle.  
