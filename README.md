@@ -5,7 +5,7 @@
 ## 🚀 Application Demo
 [![Watch the Application Demo](thumbnail.png)](https://youtu.be/WX91pYW4O2w)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WX91pYW4O2w?si=lizYdchQBk0UjHn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WX91pYW4O2w" frameborder="0" allowfullscreen></iframe>
 
 -- Music by <a href="https://pixabay.com/users/momotmusic-36971640/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=229413">Kyrylo Momot</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=229413">Pixabay</a>
 
