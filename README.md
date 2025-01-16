@@ -30,17 +30,27 @@ https://github.com/user-attachments/assets/742681a3-d74c-4887-8301-916b4616eefa
 
 ---
 
-## 🎯 How It Works  
+## 🎯 How Early to Rise works...
 
-1. **Start the App**: [(https://early-to-rise.streamlit.app/)](https://early-to-rise.streamlit.app/).  
-2. **Generate Habits**: Click the "Generate Daily Habits" button to receive tailored suggestions for:  
-   - **5-minute activity**  
-   - **15-minute activity**
-   - **30-minute activity**
-   - **1-hour activity**  
-3. **Take Action**: Commit to completing these activities and track your progress.
-4. **Save the Suggesstion**: Save the suggestion as a daily challenge and make it done. 
-5. **Reset**: Refresh for a new set of habits every day!  
+Once you visit the [Early To Rise](https://early-to-rise.streamlit.app//) Application:
+
+1. **Select the time period for habit suggestions:**
+   - The app has 4 different time periods which you can choose.
+   - They are 5-minutes,15-minutes,30-minutes and 1 hour.
+
+2. **Select the context for habit suggestions:**
+   - Now choose the context category for the habit suggestions.
+   - It includes three contexts (General, Religios and Cultural).
+
+3. **Select your physical condition:**
+   - Now the app has three different level of user's physical condition which is taken into consideration for suggesting suitable action plan.
+   - Select your physical condition (i.e: Strong, Moderate, Weak)
+
+4. **Hit the Generate New Habits**
+   - Now Click the Generate New Habits button to get your uniquely customized habit for the particular day.
+     - Remember: it's all about your self discipline that makes a lasting impact.
+       
+Enjoy exploring unique and tailored names for your project or business!
 
 ---
 
