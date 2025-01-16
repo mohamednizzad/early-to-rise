@@ -3,7 +3,7 @@
 ![Logo](logo.png)
 
 ## 🚀 Application Demo
-[![Watch the video](thumbnail.jpg)](early_to_rise_app_demo.mov)
+[![Watch the video](thumbnail.png)](early_to_rise_app_demo.mov)
 
 -- Music by <a href="https://pixabay.com/users/momotmusic-36971640/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=229413">Kyrylo Momot</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=229413">Pixabay</a>
 
