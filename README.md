@@ -1,4 +1,7 @@
-# 🌅 Early to Rise: Your Daily Productivity Habits Booster 🌟
+# 🌅 Early to Rise: Your Daily Productivity Habits 🌟
+
+![Logo](logo.png)
+
 
 **"Early to bed and early to rise makes a man healthy, wealthy, and wise."**  
 **Early to Rise** is your companion for cultivating productive daily habits that are simple, effective, and tailored to your busy lifestyle.  
