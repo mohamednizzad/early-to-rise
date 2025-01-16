@@ -5,7 +5,7 @@
 Explore the live demo: [Early To Rise](https://early-to-rise.streamlit.app//).
 
 ## 🚀 Application Demo
-
+https://github.com/user-attachments/assets/742681a3-d74c-4887-8301-916b4616eefa
 ---
 
 
