@@ -9,6 +9,8 @@ Explore the live demo: [Early To Rise](https://early-to-rise.streamlit.app//).
 
 -- Music by <a href="https://pixabay.com/users/momotmusic-36971640/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=229413">Kyrylo Momot</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=229413">Pixabay</a>
 
+---
+https://github.com/user-attachments/assets/5b5e1fec-9730-47ab-a7d6-a0a78081640c
 
 **"Early to bed and early to rise makes a man healthy, wealthy, and wise."**  
 **Early to Rise** is your companion for cultivating productive daily habits that are simple, effective, and tailored to your busy lifestyle.  
