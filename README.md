@@ -5,9 +5,10 @@
 Explore the live demo: [Early To Rise](https://early-to-rise.streamlit.app//).
 
 ## 🚀 Application Demo
+
+---
 https://github.com/user-attachments/assets/742681a3-d74c-4887-8301-916b4616eefa
 ---
-
 
 **"Early to bed and early to rise makes a man healthy, wealthy, and wise."**  
 **Early to Rise** is your companion for cultivating productive daily habits that are simple, effective, and tailored to your busy lifestyle.  
