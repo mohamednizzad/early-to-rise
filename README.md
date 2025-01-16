@@ -60,5 +60,6 @@ Follow these simple steps to get started on your machine:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone [[https://github.com/yourusername/rise-and-shine.git]](https://github.com/mohamednizzad/early-to-rise.git)
+   git clone https://github.com/yourusername/rise-and-shine.git
    cd rise-and-shine
+   ```
