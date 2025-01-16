@@ -1,7 +1,6 @@
 import streamlit as st
 import openai
 from datetime import datetime, timedelta
-from PIL import Image, ImageDraw, ImageFont
 import io
 from dotenv import load_dotenv
 import os
@@ -28,34 +27,6 @@ def generate_habits(time_period, context, physical_condition):
     )
     habits = response.choices[0].text.strip().split("\n")
     return [habit.strip() for habit in habits if habit.strip()]
-
-def create_habits_image(habits, date, time_period, context, physical_condition):
-    # Create an image with a nice background
-    width, height = 800, 600
-    background_color = (255, 255, 255)
-    text_color = (0, 0, 0)
-    font_path = "arial.ttf"  # Make sure to have a font file in your directory or specify the correct path
-    font_size = 20
-
-    image = Image.new("RGB", (width, height), background_color)
-    draw = ImageDraw.Draw(image)
-    font = ImageFont.truetype(font_path, font_size)
-
-    # Add title and date
-    title = f"Habits for {date.strftime('%B %d, %Y')} ({time_period}, {context}, {physical_condition})"
-    draw.text((10, 10), title, fill=text_color, font=font)
-
-    # Add habits
-    y_text = 50
-    for idx, habit in enumerate(habits, 1):
-        draw.text((10, y_text), f"{idx}. {habit}", fill=text_color, font=font)
-        y_text += 30
-
-    # Save image to a bytes buffer
-    buffer = io.BytesIO()
-    image.save(buffer, format="PNG")
-    buffer.seek(0)
-    return buffer
 
 # Streamlit App
 def main():
@@ -165,21 +136,7 @@ def main():
             disabled=False,
             use_container_width=False,
         )
-    with col2:
-        buffer = create_habits_image(habits, st.session_state.date, time_period, context, physical_condition)
-        st.download_button(
-            label="Download Habits as PNG",
-            data=buffer,
-            file_name=f"habits_{st.session_state.date.strftime('%Y%m%d')}.png",
-            mime="image/png",
-            key="png_download",
-            help="Download the habits as an image file",
-            on_click=None,
-            args=None,
-            kwargs=None,
-            disabled=False,
-            use_container_width=False,
-        )
+    
     st.markdown('</div>', unsafe_allow_html=True)
 
     # Encouragement section
